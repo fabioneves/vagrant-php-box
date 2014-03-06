@@ -22,3 +22,7 @@ This box was made using puphpet.com.
 ### Box utilities
 * phpMyAdmin on http://192.168.2.254/phpmyadmin
 * Beanstalkd console on http://192.168.2.254/beanstalk_console/public/
+
+# Scripts (todo)
+Add command line bash script to create/add a vhost in the vagrant machine.
+This script should also be able to install laravel, drupal and wordpress distributions automatically.
